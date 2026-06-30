@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,Region
+2026-01-01,Laptop,Electronics,2,50000,North
+2026-01-02,Mouse,Electronics,5,800,South
+2026-01-03,Chair,Furniture,3,3500,East
+2026-01-04,Table,Furniture,2,7000,West
+2026-01-05,Keyboard,Electronics,4,1200,North
+2026-01-06,Monitor,Electronics,2,15000,South
+2026-01-07,Sofa,Furniture,1,25000,East
+2026-01-08,Printer,Electronics,1,10000,West
+2026-01-09,Desk,Furniture,2,6000,North
+2026-01-10,Headphones,Electronics,3,2500,South
